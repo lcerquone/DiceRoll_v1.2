@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DiceRoll</string>
+    <string name="tap_button">Tap the button to roll the dice!</string>
+    <string name="roll">Roll</string>
+</resources>
